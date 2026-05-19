@@ -6,7 +6,7 @@ Not 100% sure what.   One knob is still a little glitchy I think due to a buffer
 License stuff as usually
 
 Uses JUCE
-This is intended as a VST3 aiming to be Stienberg compliant VST3 standard, the vst standard was developed by Steinberg and is one of their trademaarks, is steinberg if you didn't know. Hopefully it is in line havn't tested it enough to know, works for me.
+This is intended as a VST3 aiming to be Stienberg compliant VST3 standard, the vst standard was developed by Steinberg and is one of their trademaarks, is steinberg if you didn't know. Hopefully it is in line havn't tested it enough to know, works for me.  I don't use their vst test software from the sdk only fl studio for plugin testing usually.
 
 Made with Juce 8.0.12  using visual studio 2026 on windows 11 25h2
 
