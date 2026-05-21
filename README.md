@@ -11,7 +11,10 @@ Attributtion is requested where possible if you use or modify any of the source,
 Notice of use is requested so I can familiarize myself with how the code has been adapted for personal interest.
 contact@WilliamAshley.music   
 -----------------------------------------------------------------------------------------------------
-
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![JUCE](https://img.shields.io/badge/Built%20with-JUCE%208.0.12-blue)](https://juce.com)
+[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20-lightgrey)]()
+[![Format](https://img.shields.io/badge/Format-VST3%20%7C%20-orange)]()
 This is an autogain plugin that allows you to set limits and processing factors. It is fairly basic but fairly functional still testing. 
 
 Future plans are to add in the a standard GUI that I have been working on that is still going through different iterations sort of recycle some gui chunks likely to add them into this for swaping out knobs and background
